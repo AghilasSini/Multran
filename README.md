@@ -1,5 +1,5 @@
-# MulTran :
-This an adapt version of the [Tacotran-2] (https://github.com/Rayhane-mamah/Tacotron-2) which is Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
+# MulTran (MultiSpeak )
+This an adapted version of the [Tacotran-2] (https://github.com/Rayhane-mamah/Tacotron-2) which is Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
 
 
 # Repository Structure:
