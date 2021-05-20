@@ -1,4 +1,4 @@
-# MulTran (MultiSpeak )
+# MulTran (MultiSpeak Tacotran)
 This an adapted version of the [Tacotran-2] (https://github.com/Rayhane-mamah/Tacotron-2) which is Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
 
 
@@ -53,7 +53,7 @@ This an adapted version of the [Tacotran-2] (https://github.com/Rayhane-mamah/Ta
 
 The previous tree shows the current state of the repository (separate training, one step at a time).
 
-- Step **(0)**: Get your dataset, here I have set the examples of **Ljspeech**, **en_US** and **en_UK** (from **M-AILABS**).
+- Step **(0)**: Get your dataset, here I have set the examples of **SynPaFlex**, **MuFasa** and **fr_FR** (from **M-AILABS**).
 - Step **(1)**: Preprocess your data. This will give you the **training_data** folder.
 - Step **(2)**: Train your Tacotron model. Yields the **logs-Tacotron** folder.
 - Step **(3)**: Synthesize/Evaluate the Tacotron model. Gives the **tacotron_output** folder.
@@ -62,7 +62,7 @@ The previous tree shows the current state of the repository (separate training, 
 
 
 Note:
-- **Our preprocessing only supports Ljspeech and Ljspeech-like datasets (M-AILABS speech data)!** If running on datasets stored differently, you will probably need to make your own preprocessing script.
+- **This  preprocessing supports original + synpaflex-like dataset!** If running on datasets stored differently, you will probably need to make your own preprocessing script.
 - In the previous tree, files **were not represented** and **max depth was set to 3** for simplicity.
 - If you run training of both **models at the same time**, repository structure will be different.
 
