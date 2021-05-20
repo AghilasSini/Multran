@@ -1,5 +1,5 @@
-# Tacotron-2:
-Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
+# MulTran :
+This an adapt version of the [Tacotran-2] (https://github.com/Rayhane-mamah/Tacotron-2) which is Tensorflow implementation of DeepMind's Tacotron-2. A deep neural network architecture described in this paper: [Natural TTS synthesis by conditioning Wavenet on MEL spectogram predictions](https://arxiv.org/pdf/1712.05884.pdf)
 
 
 # Repository Structure:
@@ -176,6 +176,7 @@ Synthesizing the **waveforms** conditionned on previously synthesized Mel-spectr
 **Note:**
 - If model argument is not provided, synthesis will default to Tacotron-2 model synthesis. (End-to-End TTS)
 - Please refer to synthesis arguments under [synthesize.py](https://github.com/Rayhane-mamah/Tacotron-2/blob/master/synthesize.py) for a set of options you can use.
+
 
 
 # References and Resources:
