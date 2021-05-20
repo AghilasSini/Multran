@@ -1,0 +1,75 @@
+data/wavenet_vocoder/__init__.py.i
+data/papers/Tacotron 2 revised.pdf.i
+data/tacotron/models/tacotron.py.i
+data/papers/fast_wavenet.pdf.d
+data/papers/tacotron.pdf.i
+data/hparams.py.i
+data/tacotron/synthesizer.py.i
+data/wavenet_vocoder/synthesize.py.i
+data/papers/tacotron.pdf.d
+data/test_wavenet_feeder.py.i
+data/tacotron/models/helpers.py.i
+data/papers/Tacotron 2 revised.pdf.d
+data/tacotron/utils/cleaners.py.i
+data/wavenet_vocoder/models/gaussian.py.i
+data/tacotron/models/Architecture_wrappers.py.i
+data/tacotron/utils/numbers.py.i
+data/tacotron/__init__.py.i
+data/papers/bahdanau (content) attention.pdf.i
+data/sentences_phone (copie).txt.i
+data/sentences.txt.i
+data/papers/bahdanau (content) attention.pdf.d
+data/datasets/preprocessor_VCTK.py.i
+data/papers/(content+location) attention.pdf.i
+data/papers/fast_wavenet.pdf.i
+data/papers/tacotron2.pdf.i
+data/papers/tacotron2.pdf.d
+data/griffin_lim_synthesis_tool.ipynb.i
+data/datasets/__init__.py.i
+data/train.py.i
+data/papers/(content+location) attention.pdf.d
+data/sentences_phone.txt.i
+data/wavenet_preprocess.py.i
+data/datasets/preprocessor.py.i
+data/LICENSE.i
+data/wavenet_vocoder/feeder.py.i
+data/objective_evaluation.py.i
+data/tacotron/models/modules.py.i
+data/tacotron/models/attention.py.i
+data/tacotron/models/__init__.py.i
+data/infolog.py.i
+data/papers/wavenet.pdf.i
+data/wavenet_vocoder/models/wavenet.py.i
+data/papers/wavenet.pdf.d
+data/tacotron/utils/cmudict.py.i
+data/tacotron/utils/IPA.py.i
+data/preprocess.py.i
+data/tacotron/train.py.i
+data/datasets/wavenet_preprocessor.py.i
+data/.hgignore.i
+data/papers/ClariNet.pdf.d
+data/wavenet_vocoder/models/modules.py.i
+data/wavenet_vocoder/train.py.i
+data/tacotron/feeder_reference.py.i
+data/wavenet_vocoder/models/__init__.py.i
+data/datasets/audio.py.i
+data/papers/ClariNet.pdf.i
+data/tacotron/utils/symbols.py.i
+data/tacotron/models/custom_decoder.py.i
+data/wavenet_vocoder/models/mixture.py.i
+data/synthesize.py.i
+data/papers/deepvoice 3.pdf.i
+data/wavenet_vocoder/util.py.i
+data/wavenet_vocoder/synthesizer.py.i
+data/extract_embeddings.py.i
+data/papers/deepvoice 3.pdf.d
+data/tacotron/utils/plot.py.i
+data/papers/effective approaches attention.pdf.i
+data/papers/effective approaches attention.pdf.d
+data/tacotron/utils/__init__.py.i
+data/tacotron/feeder.py.i
+data/requirements.txt.i
+data/sentences (copie).txt.i
+data/tacotron/utils/text.py.i
+data/tacotron/synthesize.py.i
+data/README.md.i
